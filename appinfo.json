@@ -1,0 +1,22 @@
+{
+    "appKeys": {
+        "command": 1,
+        "ip_address": 2
+    },
+    "capabilities": [
+        "configurable"
+    ],
+    "companyName": "Orviwan",
+    "longName": "ControlR for Pebble",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "shortName": "ControlR for Pebble",
+    "uuid": "14528bff-5767-4bd3-9159-8d57c490b00c",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
